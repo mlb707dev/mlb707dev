@@ -1,1 +1,1 @@
-<a href="https://github.com/mlb707dev/apexpm-kalshi-bot"><img src="https://github.com/mlb707dev/apexpm-kalshi-bot/raw/main/assets/apexpm-v3-architecture.png" alt="ApexPM V3 architecture diagram" width="100%"></a>
+<a href="https://github.com/mlb707dev/apexpm-kalshi-bot/raw/main/assets/apexpm-v3-architecture.png"><img src="https://github.com/mlb707dev/apexpm-kalshi-bot/raw/main/assets/apexpm-v3-architecture.png" alt="ApexPM V3 architecture diagram" width="100%"></a>
