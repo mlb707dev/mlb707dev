@@ -8,13 +8,18 @@ GTM leader building AI tools end to end with Claude as my pair programmer. These
 
 **A mobile-first app for the whole event experience: attendees, booth staff and organizers.**
 
-- **Attendees:** every giveaway in one list, a free digital business card, one agenda and an AI assistant that knows the event.
-- **Booth staff and GTM teams:** badge and card scanning that works offline, rep attribution on every note, key-account alerts, built-in scheduling and CRM-ready output.
-- **Organizers:** visibility into what actually happened on the floor.
+One app, three experiences. Each side gets what it has been missing at in-person events, and nothing learned on the floor is lost by Monday.
 
-Status: private beta.
+[Contact us](https://www.theeventapp.ai/support) for a walkthrough. Status: private beta.
 
 ---
+
+## GTM tools
+
+| Project | What it is |
+|---|---|
+| [**Event Lead Scanner**](https://github.com/mlb707dev/event-lead-scanner) | A single-purpose lead capture tool for booth teams: badge scanning, rep attribution, enrichment and CRM-ready output. A separate, earlier project from Event. |
+| [**CalBUDI**](https://github.com/mlb707dev/calbudi) | A multi-calendar scheduling concept with tap-to-meet. Deprecated as a standalone project; kept as a record of the idea. |
 
 ## Trading systems
 
