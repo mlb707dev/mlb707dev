@@ -1,6 +1,6 @@
 ### Hi, I'm mlb707dev 👋
 
-GTM leader building AI tools end to end with Claude as my pair programmer. These are real products, taken from idea to deployed.
+GTM leader building AI tools end to end with Claude as my pair programmer. I also build side projects for fun. These are real products, taken from idea to deployed.
 
 ---
 
