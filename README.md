@@ -18,7 +18,7 @@ One app, three experiences. Each side gets what it has been missing at in-person
 
 | Project | What it is |
 |---|---|
-| [**Event Lead Scanner**](https://github.com/mlb707dev/event-lead-scanner) | A single-purpose lead capture tool for booth teams: badge scanning, rep attribution, enrichment and CRM-ready output. A separate, earlier project from Event. |
+| [**Lead Scanner**](https://github.com/mlb707dev/event-lead-scanner) | A single-purpose lead capture tool for booth teams: badge scanning, rep attribution, enrichment and CRM-ready output. A separate, earlier project from Event. |
 | [**CalBUDI**](https://github.com/mlb707dev/calbudi) | A multi-calendar scheduling concept with tap-to-meet. Deprecated as a standalone project; kept as a record of the idea. |
 
 ## Trading systems
